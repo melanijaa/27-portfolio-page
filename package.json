@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
