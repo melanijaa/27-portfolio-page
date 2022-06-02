@@ -6,7 +6,7 @@ This project was created for learning purpuses.
 
 Site published at: https://melanijaa.github.io/27-portfolio-page/
 
-Design: https://www.nowness.com/
+Design: https://www.nowness.com/ https://www.franshalsmuseum.nl/en/
 
 ## Authors
 
