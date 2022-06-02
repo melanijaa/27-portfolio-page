@@ -4,5 +4,24 @@
   },
   "devDependencies": {
     "dead-server": "^1.0.6"
-  }
+  },
+  "name": "27-portfolio-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanijaa/27-portfolio-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melanijaa/27-portfolio-page/issues"
+  },
+  "homepage": "https://github.com/melanijaa/27-portfolio-page#readme",
+  "description": ""
 }
